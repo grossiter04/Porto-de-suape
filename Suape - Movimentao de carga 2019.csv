@@ -1,0 +1,261 @@
+Mês,Ano,Instalação Portuária,Nome do Berço,Terminal,Mercadoria-Capítulo (SH2),Quantidade de Conteiner (u),Quantidade TEU,Somatório Peso Bruto Conteiner (t),Somatório Carga Geral Solta (t),Somatório Granel Sólido (t),Somatório Granel Líquido (t),Somatório de Carga Bruta (t)
+1,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal,0,0,0,0,0,10000,10000
+1,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,25401,25401
+1,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,13460,13460
+1,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,31814,31814
+1,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,27744,27744
+1,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,115866,115866
+1,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,106618,106618
+1,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,645008,645008
+1,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,148650,148650
+1,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,55,88,1210,0,0,0,1210
+1,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,12859,21326,233251,0,0,0,233251
+1,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,7921,13799,169768,0,0,0,169768
+1,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,27500,0,27500
+1,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,20856,0,0,20856
+1,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,5525,0,0,5525
+1,2019,Suape,Porto Interno - Berço 04,Cais 4,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,54,0,0,54
+1,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,1133,0,0,1133
+1,2019,Suape,Porto Interno - Berço 05,Cais 5,Contêineres,6,12,110,0,0,0,110
+1,2019,Suape,Porto Interno - Berço 05,Cais 5,"Minerios, escórias e cinzas",0,0,0,0,63005,0,63005
+1,2019,Suape,Porto Interno - Berço 05,Cais 5,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,108,0,0,108
+1,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,2171,0,0,2171
+2,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,26967,26967
+2,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,40845,40845
+2,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,30183,30183
+2,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,16819,16819
+2,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,40742,40742
+2,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,36200,36200
+2,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,18542,18542
+2,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,113548,113548
+2,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,145039,145039
+2,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,304383,304383
+2,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,142265,142265
+2,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,831,1365,18091,0,0,0,18091
+2,2019,Suape,Porto Interno - Berço 01,Cais 1,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,75,0,0,75
+2,2019,Suape,Porto Interno - Berço 01,Cais 1,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,1723,0,0,1723
+2,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,14672,24665,255254,0,0,0,255254
+2,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,5247,8989,111415,0,0,0,111415
+2,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,26250,0,26250
+2,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,5899,0,0,5899
+2,2019,Suape,Porto Interno - Berço 04,Cais 4,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,38,0,0,38
+2,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,10,0,0,10
+2,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,2703,0,0,2703
+2,2019,Suape,Porto Interno - Berço 05,Cais 5,Açúcares e produtos de confeitaria,0,0,0,13042,0,0,13042
+2,2019,Suape,Porto Interno - Berço 05,Cais 5,Embarcações e estruturas flutuantes,0,0,0,482,0,0,482
+2,2019,Suape,Porto Interno - Berço 05,Cais 5,"Obras de ferro fundido, ferro ou aço",0,0,0,2013,0,0,2013
+2,2019,Suape,Porto Interno - Berço 05,Cais 5,"Outros artefatos têxteis confeccionados; sortidos; artefatos de matérias têxteis, calçados, chapéus e artefatos de uso semelhante, usados; trapos",0,0,0,1,0,0,1
+2,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,1270,0,0,1270
+3,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,29061,29061
+3,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,26001,26001
+3,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,71663,71663
+3,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,27167,27167
+3,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,11725,11725
+3,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,53269,53269
+3,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,14218,14218
+3,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,87710,87710
+3,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,115279,115279
+3,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,569819,569819
+3,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,196289,196289
+3,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,921,1411,17339,0,0,0,17339
+3,2019,Suape,Porto Interno - Berço 01,Cais 1,"Obras de ferro fundido, ferro ou aço",0,0,0,2550,0,0,2550
+3,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,16836,28467,333301,0,0,0,333301
+3,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,5453,9553,106054,0,0,0,106054
+3,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,42748,0,42748
+3,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,2575,0,0,2575
+3,2019,Suape,Porto Interno - Berço 04,Cais 4,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,495,0,0,495
+3,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,4479,0,0,4479
+3,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,4003,0,0,4003
+3,2019,Suape,Porto Interno - Berço 05,Cais 5,Açúcares e produtos de confeitaria,0,0,0,24629,0,0,24629
+3,2019,Suape,Porto Interno - Berço 05,Cais 5,"Outros artefatos têxteis confeccionados; sortidos; artefatos de matérias têxteis, calçados, chapéus e artefatos de uso semelhante, usados; trapos",0,0,0,1571,0,0,1571
+3,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,732,0,0,732
+4,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,37023,37023
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,41001,41001
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,56969,56969
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,33581,33581
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,22139,22139
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,62135,62135
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos",0,0,0,0,0,5975,5975
+4,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,21943,21943
+4,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,133761,133761
+4,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,187588,187588
+4,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,554889,554889
+4,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,467097,467097
+4,2019,Suape,Porto Interno - Berço 01,Cais 1,"Ferro fundido, ferro e aço",0,0,0,7388,0,0,7388
+4,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,0,22718,275665,0,0,0,275665
+4,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,0,15325,177392,0,0,0,177392
+4,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,26125,0,26125
+4,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,4383,0,0,4383
+4,2019,Suape,Porto Interno - Berço 04,Cais 4,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,517,0,0,517
+4,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,5659,0,0,5659
+4,2019,Suape,Porto Interno - Berço 05,Cais 5,"Obras de ferro fundido, ferro ou aço",0,0,0,15381,0,0,15381
+4,2019,Suape,Porto Interno - Berço 05,Cais 5,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,189,0,0,189
+4,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,955,0,0,955
+5,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,19985,19985
+5,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,19682,19682
+5,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,69647,69647
+5,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,53114,53114
+5,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,35239,35239
+5,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,14249,14249
+5,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,43881,43881
+5,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,121968,121968
+5,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,217577,217577
+5,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,495033,495033
+5,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,280715,280715
+5,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,392,668,4976,0,0,0,4976
+5,2019,Suape,Porto Interno - Berço 01,Cais 1,"Ferro fundido, ferro e aço",0,0,0,2425,0,0,2425
+5,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,14110,23320,245438,0,0,0,245438
+5,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,7989,14040,166254,0,0,0,166254
+5,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,15111,0,15111
+5,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,8693,0,0,8693
+5,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,1783,0,0,1783
+5,2019,Suape,Porto Interno - Berço 05,Cais 5,"Ferro fundido, ferro e aço",0,0,0,5029,0,0,5029
+5,2019,Suape,Porto Interno - Berço 05,Cais 5,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,94,0,0,94
+5,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,2834,0,0,2834
+5,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos e material para vias férreas ou semelhantes, e suas partes; aparelhos mecânicos (incluindo os eletromecânicos) de sinalização para vias de comunicação",0,0,0,102,0,0,102
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,36946,36946
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,27246,27246
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos",0,0,0,0,0,4284,4284
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,11923,11923
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,19112,19112
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,42243,42243
+6,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,25379,25379
+6,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,162187,162187
+6,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,184952,184952
+6,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,476698,476698
+6,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,393650,393650
+6,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,595,828,12887,0,0,0,12887
+6,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,14631,23953,262254,0,0,0,262254
+6,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,8171,14530,170927,0,0,0,170927
+6,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,36350,0,36350
+6,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,8793,0,0,8793
+6,2019,Suape,Porto Interno - Berço 04,Cais 4,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,352,0,0,352
+6,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,4591,0,0,4591
+6,2019,Suape,Porto Interno - Berço 05,Cais 5,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,49,0,0,49
+6,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,5086,0,0,5086
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,16864,16864
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,90553,90553
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,51118,51118
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,48916,48916
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,48396,48396
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos",0,0,0,0,0,4260,4260
+7,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,37450,37450
+7,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,219506,219506
+7,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,225580,225580
+7,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,550669,550669
+7,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,461790,461790
+7,2019,Suape,Porto Interno - Berço 01,Cais 1,"Ferro fundido, ferro e aço",0,0,0,13958,0,0,13958
+7,2019,Suape,Porto Interno - Berço 01,Cais 1,"Obras de ferro fundido, ferro ou aço",0,0,0,8273,0,0,8273
+7,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,17121,28816,309057,0,0,0,"309057,21"
+7,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,6388,10774,127925,0,0,0,127925
+7,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,42100,0,42100
+7,2019,Suape,Porto Interno - Berço 04,Cais 4,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,1031,0,0,1031
+7,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,2370,0,0,2370
+7,2019,Suape,Porto Interno - Berço 05,Cais 5,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,455,0,0,455
+7,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,6765,0,0,6765
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"19636,4","19636,4"
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"56598,95","56598,95"
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Produtos químicos inorgânicos; compostos inorgânicos ou orgânicos de metais preciosos, de elementos radioativos, de metais das terras raras ou de isótopos",0,0,0,0,0,"9062,42","9062,42"
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"34879,17","34879,17"
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"23114,75","23114,75"
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"42297,76","42297,76"
+8,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"22033,88","22033,88"
+8,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"147612,72","147612,72"
+8,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"396995,49","396995,49"
+8,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"585459,19","585459,19"
+8,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"540820,04","540820,04"
+8,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,187,229,4309,0,0,0,"4309,16"
+8,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,14086,24065,255703,0,0,0,"255702,87"
+8,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,10171,17525,203716,0,0,0,"203716,48"
+8,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,52500,0,52500
+8,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,"5635,65",0,0,"5635,65"
+8,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,"1556,13",0,0,"1556,13"
+8,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"551,13",0,0,"551,13"
+8,2019,Suape,Porto Interno - Berço 05,Cais 5,"Ferro fundido, ferro e aço",0,0,0,"17330,68",0,0,"17330,68"
+8,2019,Suape,Porto Interno - Berço 05,Cais 5,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,"925,79",0,0,"925,79"
+8,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"4167,12",0,0,"4167,12"
+9,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,"31096,28",0,0,"31096,28"
+9,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"27550,3","27550,3"
+9,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"95708,78","95708,78"
+9,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"8546,19","8546,19"
+9,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"19867,81","19867,81"
+9,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"52177,36","52177,36"
+9,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"56103,1","56103,1"
+9,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"107817,42","107817,42"
+9,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"256244,22","256244,22"
+9,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"682534,52","682534,52"
+9,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"366523,51","366523,51"
+9,2019,Suape,Porto Interno - Berço 01,Cais 1,Contêineres,963,1482,11169,0,0,0,"11169,48"
+9,2019,Suape,Porto Interno - Berço 01,Cais 1,"Ferro fundido, ferro e aço",963,1482,11169,0,0,0,"16384,34"
+9,2019,Suape,Porto Interno - Berço 01,Cais 1,"Obras de ferro fundido, ferro ou aço",963,1482,11169,0,0,0,"6821,54"
+9,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,17516,29266,334083,0,0,0,"334082,8"
+9,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,6904,12358,146676,0,0,0,"146675,61"
+9,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,27500,0,27500
+9,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,"10948,02",0,0,"10948,02"
+9,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"1180,47",0,0,"1180,47"
+9,2019,Suape,Porto Interno - Berço 05,Cais 5,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,"1013,6",0,0,"1013,6"
+9,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"5621,86",0,0,"5621,86"
+10,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal,0,0,0,0,0,"10057,16","10057,16"
+10,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"50233,11","50233,11"
+10,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"53572,96","53572,96"
+10,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"12091,7","12091,7"
+10,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"55227,82","55227,82"
+10,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"19164,88","19164,88"
+10,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"215203,78","215203,78"
+10,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"301801,2","301801,2"
+10,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"627437,09","627437,09"
+10,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"359763,16","359763,16"
+10,2019,Suape,Porto Interno - Berço 01,Cais 1,"Ferro fundido, ferro e aço",0,0,0,"13417,28",0,0,"13417,28"
+10,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,19392,32751,367273,0,0,0,"367273,12"
+10,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,4488,7880,91623,0,0,0,"91622,76"
+10,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,43202,0,"43201,75"
+10,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,"2736,82",0,0,"2736,82"
+10,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,"1945,16",0,0,"1945,16"
+10,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"2015,85",0,0,"2015,85"
+10,2019,Suape,Porto Interno - Berço 05,Cais 5,"Ferro fundido, ferro e aço",0,0,0,"10395,43",0,0,"10395,43"
+10,2019,Suape,Porto Interno - Berço 05,Cais 5,"Máquinas, aparelhos e materiais elétricos, e suas partes; aparelhos de gravação ou de reprodução de som, aparelhos de gravação ou de reprodução de imagens e de som em televisão, e suas partes e acessórios",0,0,0,"431,93",0,0,"431,93"
+10,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"2514,89",0,0,"2514,89"
+11,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,Açúcares e produtos de confeitaria,0,0,0,"9028,8",0,0,"9028,8"
+11,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,Papel e cartão,0,0,0,"0,58",0,0,"0,58"
+11,2019,Suape,Cais de Múltiplos Usos - Berço - Oeste,,Açúcares e produtos de confeitaria,0,0,0,"14094,96",0,0,"14094,96"
+11,2019,Suape,Cais de Múltiplos Usos - Berço - Oeste,,Papel e cartão,0,0,0,"0,9",0,0,"0,9"
+11,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação",0,0,0,0,0,"78975,05","78975,05"
+11,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"31843,45","31843,45"
+11,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"18742,76","18742,76"
+11,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"34782,79","34782,79"
+11,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação",0,0,0,0,0,"87350,29","87350,29"
+11,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação",0,0,0,0,0,"264695,1","264695,1"
+11,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação",0,0,0,0,0,"581294,05","581294,05"
+11,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação",0,0,0,0,0,"481821,02","481821,02"
+11,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,12584,21122,"244935,14",0,0,0,"244935,14"
+11,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,12586,22383,"247491,33",0,0,0,"247491,33"
+11,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,29902,0,29902
+11,2019,Suape,Porto Interno - Berço 04,Cais 4,"Máquinas, aparelhos e materiais elétricos, e suas partes",0,0,0,"437,5",0,0,"437,5"
+11,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,"2723,22",0,0,"2723,22"
+11,2019,Suape,Porto Interno - Berço 04,Cais 4,"Reatores nucleares, caldeiras, máquinas, aparelhos e instrumentos mecânicos, e suas partes",0,0,0,"349,65",0,0,"349,65"
+11,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"2449,29",0,0,"2449,29"
+11,2019,Suape,Porto Interno - Berço 05,Cais 5,"Ferro fundido, ferro e aço",0,0,0,"1849,31",0,0,"1849,31"
+11,2019,Suape,Porto Interno - Berço 05,Cais 5,"Máquinas, aparelhos e materiais elétricos, e suas partes",0,0,0,"537,14",0,0,"537,14"
+11,2019,Suape,Porto Interno - Berço 05,Cais 5,"Obras de ferro fundido, ferro ou aço",0,0,0,0,0,0,"3142,44"
+11,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,0,0,0,"1240,27"
+12,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,Açúcares e produtos de confeitaria,0,0,0,"17054,4",0,0,"17054,4"
+12,2019,Suape,Cais de Múltiplos Usos - Berço - Leste,Cais de Múltiplos Usos - CMU,Gorduras e óleos animais ou vegetais; produtos da sua dissociação; gorduras alimentares elaboradas; ceras de origem animal ou vegetal,0,0,0,0,0,"17962,77","17962,77"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"10264,46","10264,46"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"109362,89","109362,89"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos diversos das indústrias químicas,0,0,0,0,0,"3359,57","3359,57"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Leste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"9951,64","9951,64"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Bebidas, líquidos alcoólicos e vinagres",0,0,0,0,0,"4036,69","4036,69"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"57081,35","57081,35"
+12,2019,Suape,Pier de Granéis Líquidos 1 - Berço Oeste,Píer de Graneis Líquidos 1,Produtos químicos orgânicos,0,0,0,0,0,"16111,07","16111,07"
+12,2019,Suape,Pier de Granéis Líquidos 2 - Berço Leste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"182850,33","182850,33"
+12,2019,Suape,Pier de Granéis Líquidos 2 - Berço Oeste,Píer de Graneis Líquidos 2,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"184025,37","184025,37"
+12,2019,Suape,Pier de Granéis Líquidos 3 - A,Píer de Graneis Líquidos 3A,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"575018,85","575018,85"
+12,2019,Suape,Pier de Granéis Líquidos 3 - B,Píer de Graneis Líquidos 3B,"Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais",0,0,0,0,0,"251753,94","251753,94"
+12,2019,Suape,Porto Interno - Berço 02 - TECON,Tecon Suape,Contêineres,8076,13922,141296,0,0,0,141296
+12,2019,Suape,Porto Interno - Berço 03 - TECON,Tecon Suape,Contêineres,16730,28674,"340564,61",0,0,0,"340564,61"
+12,2019,Suape,Porto Interno - Berço 04,Cais 4,Cereais,0,0,0,0,27500,0,27500
+12,2019,Suape,Porto Interno - Berço 04,Cais 4,"Ferro fundido, ferro e aço",0,0,0,"5438,05",0,0,"5438,05"
+12,2019,Suape,Porto Interno - Berço 04,Cais 4,"Obras de ferro fundido, ferro ou aço",0,0,0,"10112,08",0,0,"10112,08"
+12,2019,Suape,Porto Interno - Berço 04,Cais 4,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"3478,01",0,0,"3478,01"
+12,2019,Suape,Porto Interno - Berço 05,Cais 5,"Veículos automóveis, tratores, ciclos e outros veículos terrestres, suas partes e acessórios",0,0,0,"5319,34",0,0,"5319,34"
+,,,,,Total:,259807,479268,"5409745,08","391649,28",459793,"17634628,27","23901066,46"
